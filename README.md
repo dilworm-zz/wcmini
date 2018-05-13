@@ -1,1 +1,1 @@
-# wxmini
+# wcmini
